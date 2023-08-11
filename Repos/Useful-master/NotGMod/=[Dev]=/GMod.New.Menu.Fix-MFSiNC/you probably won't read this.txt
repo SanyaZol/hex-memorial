@@ -1,0 +1,23 @@
+extract folders to gmod root
+
+steam/steamapps/username/garrysmod/garrysmod
+
+Or go through and only extract the parts you want.
+
+
+
+What the files do:
+
+./lua/menu/logo.lua - The big GMod logo
+
+./materials/console/background* - The current background image
+
+./resource/ClientScheme.res - Menu fonts and colors
+
+./resource/SourceScheme.res - More menu fonts and colors
+
+
+
+http://mfsinc.wordpress.com/2009/11/23/gmod-menu-fix/
+
+

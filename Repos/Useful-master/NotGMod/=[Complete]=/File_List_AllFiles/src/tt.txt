@@ -1,0 +1,47 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E08B-785D
+
+ Directory of C:\Documents and Settings\Fagballs\Desktop\lyrics
+
+21/12/2009  23:57    <DIR>          .
+21/12/2009  23:57    <DIR>          ..
+21/12/2009  23:08    <DIR>          1
+21/12/2009  23:05    <DIR>          fuuu
+21/12/2009  23:06                 0 dirfile$.bat
+21/12/2009  23:13                95 fu1.bat
+21/12/2009  23:20                99 fu2.bat
+21/12/2009  23:26                62 fu3.bat
+21/12/2009  23:31                99 fu4.bat
+21/12/2009  22:56               722 fuuuuu.bat
+21/12/2009  23:37               149 fy5.bat
+21/12/2009  23:06                86 new.bat
+21/12/2009  23:53                27 lol1.txt
+21/12/2009  23:54               975 lol2.txt
+21/12/2009  23:57                 0 tt.txt
+              11 File(s)          2,314 bytes
+
+ Directory of C:\Documents and Settings\Fagballs\Desktop\lyrics\1
+
+21/12/2009  23:08    <DIR>          .
+21/12/2009  23:08    <DIR>          ..
+21/12/2009  23:08    <DIR>          fuuuuuuuuck
+21/12/2009  02:05             1,517 lol1.txt
+               1 File(s)          1,517 bytes
+
+ Directory of C:\Documents and Settings\Fagballs\Desktop\lyrics\1\fuuuuuuuuck
+
+21/12/2009  23:08    <DIR>          .
+21/12/2009  23:08    <DIR>          ..
+06/05/2009  13:58         1,561,992 MGADiag.exe
+               1 File(s)      1,561,992 bytes
+
+ Directory of C:\Documents and Settings\Fagballs\Desktop\lyrics\fuuu
+
+21/12/2009  23:05    <DIR>          .
+21/12/2009  23:05    <DIR>          ..
+21/12/2009  22:48             6,501 l.txt
+               1 File(s)          6,501 bytes
+
+     Total Files Listed:
+              14 File(s)      1,572,324 bytes
+              11 Dir(s)   3,650,027,520 bytes free

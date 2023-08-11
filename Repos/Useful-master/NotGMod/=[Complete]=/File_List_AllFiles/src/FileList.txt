@@ -1,0 +1,16 @@
+1
+fuuu
+all.bat
+dirfile$.bat
+fu1.bat
+fu2.bat
+fu3.bat
+fu4.bat
+fuuuuu.bat
+fy5.bat
+new.bat
+AllFiles.txt
+FileList.txt
+lol1.txt
+lol2.txt
+tt.txt

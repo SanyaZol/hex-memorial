@@ -1,0 +1,4 @@
+wget -nd -t 0 -T 15 "http://movies.apple.com/movies/sony/moon/moon_h1080p.mov" -U "QuickTime/7.6 (qtver=7.6;os=Windows NT 6.0Service Pack 1)" --header "Host: movies.apple.com"
+
+
+http://movies.apple.com/movies/sony/moon/moon_h1080p.mov

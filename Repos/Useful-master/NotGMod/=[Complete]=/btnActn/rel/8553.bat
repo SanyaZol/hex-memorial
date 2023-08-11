@@ -1,0 +1,2 @@
+start firefox.exe
+exit

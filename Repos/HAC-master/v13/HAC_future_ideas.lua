@@ -1,3 +1,4 @@
+--05.08.14
 
 --[[
 	=== New HAC ===
@@ -10,8 +11,6 @@
 
 
 
-
-cheaters/Banned() guns Bul.Damage = 0, Bul.Spread = rand
 
 
 
@@ -54,26 +53,6 @@ setmetatable(White_EtcEtc, Lock)
 
 
 self:ClientCommand("lua_openscript_cl ban_me.lua")
-
-
---[[
-Add sv_Group:
-http://steamcommunity.com/groups/MPGH
-http://steamcommunity.com/groups/complimentmyvacban
-http://steamcommunity.com/groups/tabernaclehacking
-http://steamcommunity.com/groups/TheAllianceofStooge
-http://steamcommunity.com/groups/montageparodies
-]]
-
-
---[[
-roc
-
-data/overrides
-
-penthus
-luaviewer
-]]
 
 
 upvalues of tostring, should always be nil,false,true, check iterate.lua
